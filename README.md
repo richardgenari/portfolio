@@ -1,6 +1,6 @@
-# portifolio
+# portfolio
 
-portifolio feito em html , css, js
+portfolio feito em html , css, js
 
 
 ## Tarefas
